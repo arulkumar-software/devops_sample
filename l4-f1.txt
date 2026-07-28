@@ -1,0 +1,2 @@
+.gitignore file is used to ignore specific files
+
